@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">GitHubUserApp</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repo">%1$s Repo</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Insert user…</string>
+    <string name="users_result"><![CDATA[Found <b>%1$s</b> users result <b>%2$s</b>]]></string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="not_connection">Not Connection</string>
+    <string name="not_following">no following</string>
+    <string name="not_followers">no followers</string>
+</resources>

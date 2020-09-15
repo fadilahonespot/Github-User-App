@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">GitHubUserApp</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="name">Nama</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="repo">%1$s Repo</string>
+    <string name="search">Pencaharian</string>
+    <string name="search_hint">Masukan user…</string>
+    <string name="users_result"><![CDATA[Ditemukan <b>%1$s</b> hasil pengguna <b>%2$s</b>]]></string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="not_connection">Tidak Ada Koneksi</string>
+    <string name="not_following">Tidak mengikuti siapapun</string>
+    <string name="not_followers">Tidak ada pengikut</string>
+</resources>
